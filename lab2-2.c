@@ -5,7 +5,7 @@ int main()
     int i;
     int *ptr;
     int **dptr;
-
+    printf("----허정윤  2021041047-----\n");
     i = 1234;
 
     printf("[checking values before ptr = &i] \n");     //ptr=&i를 하기 전 출력들
